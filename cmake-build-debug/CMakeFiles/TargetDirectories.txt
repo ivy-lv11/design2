@@ -1,0 +1,3 @@
+D:/design/design2/cmake-build-debug/CMakeFiles/design.dir
+D:/design/design2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/design/design2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
